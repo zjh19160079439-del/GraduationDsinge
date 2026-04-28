@@ -1,0 +1,5 @@
+train: D:/Program Files/student code/ultralytics-8.2.26/ultralytics/Silkworm/yolo_dataset/images/train
+val: D:/Program Files/student code/ultralytics-8.2.26/ultralytics/Silkworm/yolo_dataset/images/val
+
+nc: 4
+names: ['disease', 'one_age', 'three_age', 'two_age']
